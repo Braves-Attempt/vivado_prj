@@ -6,3 +6,9 @@ Vivado 2024.1 Tcl Shell
 
 cd T:/Vivado_Prj（假设tcl放置在T盘）
 source ./designs/TCPv4_Client/project_top.tcl
+
+
+参考视频
+
+https://www.youtube.com/watch?v=cy9usZdaKRc
+
